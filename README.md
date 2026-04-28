@@ -252,15 +252,6 @@ NER 模型使用 B/I/O 标注体系：
 这种方式可以提升问答系统对别名、缩写、模糊商品名和中英文混合输入的容错能力。
 
 
-
-## License
-
-如果计划开源，可以根据使用场景选择许可证：
-
-- 学习交流优先：MIT License
-- 希望保留更多版权约束：Apache License 2.0
-- 数据或模型权重另有来源时，请同时遵守对应许可证
-
 ## 致谢
 
 本项目使用 Neo4j、LangChain、Hugging Face Transformers、DeepSeek、FastAPI 等开源生态工具完成电商知识图谱构建与智能问答实验。
